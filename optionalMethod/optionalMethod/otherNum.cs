@@ -8,19 +8,13 @@ namespace optionalMethod
 {
     class otherNum
     {
-        public static string AddNumbers(int a, string b = "100")
+       
+        public static int AddNumbers(int a, int b = 100)
         {
-            //return $" a = {a}, b = {b}, a + b = {a + b}";
-            
-            int tempValue01 = a ;
-            int tempValue02 = Convert.ToInt32(b);;
-            int tempValue = tempValue01 + tempValue02;
-            string tempTotal = Convert.ToString(tempValue);
-            
-            return tempTotal;
-            
+            return a+b;
         }
+    }
 
        
-    }
+    
 }
