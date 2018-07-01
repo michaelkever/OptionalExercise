@@ -5,3 +5,10 @@ C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\optionalMethod\option
 C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\optionalMethod\optionalMethod\bin\Debug\optionalMethod.pdb
 C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\optionalMethod\optionalMethod\obj\Debug\optionalMethod.exe
 C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\optionalMethod\optionalMethod\obj\Debug\optionalMethod.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\bin\Debug\optionalMethod.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\bin\Debug\optionalMethod.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\bin\Debug\optionalMethod.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\obj\Debug\optionalMethod.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\obj\Debug\optionalMethod.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\obj\Debug\optionalMethod.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\optionalMethod\OptionalExercise\optionalMethod\optionalMethod\obj\Debug\optionalMethod.pdb
